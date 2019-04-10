@@ -1,0 +1,6 @@
+c:\users\me\documents\visual studio 2015\Projects\FacadePatternPractice\FacadePatternPractice\bin\Debug\FacadePatternPractice.exe.config
+c:\users\me\documents\visual studio 2015\Projects\FacadePatternPractice\FacadePatternPractice\bin\Debug\FacadePatternPractice.exe
+c:\users\me\documents\visual studio 2015\Projects\FacadePatternPractice\FacadePatternPractice\bin\Debug\FacadePatternPractice.pdb
+c:\users\me\documents\visual studio 2015\Projects\FacadePatternPractice\FacadePatternPractice\obj\Debug\FacadePatternPractice.csprojResolveAssemblyReference.cache
+c:\users\me\documents\visual studio 2015\Projects\FacadePatternPractice\FacadePatternPractice\obj\Debug\FacadePatternPractice.exe
+c:\users\me\documents\visual studio 2015\Projects\FacadePatternPractice\FacadePatternPractice\obj\Debug\FacadePatternPractice.pdb
