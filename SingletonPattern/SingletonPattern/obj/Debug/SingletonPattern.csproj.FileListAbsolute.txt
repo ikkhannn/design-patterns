@@ -1,0 +1,6 @@
+c:\users\me\documents\visual studio 2015\Projects\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+c:\users\me\documents\visual studio 2015\Projects\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+c:\users\me\documents\visual studio 2015\Projects\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+c:\users\me\documents\visual studio 2015\Projects\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+c:\users\me\documents\visual studio 2015\Projects\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+c:\users\me\documents\visual studio 2015\Projects\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb

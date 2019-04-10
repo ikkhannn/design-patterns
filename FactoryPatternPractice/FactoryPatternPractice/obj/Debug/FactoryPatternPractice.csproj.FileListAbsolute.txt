@@ -1,0 +1,6 @@
+c:\users\me\documents\visual studio 2015\Projects\FactoryPatternPractice\FactoryPatternPractice\bin\Debug\FactoryPatternPractice.exe.config
+c:\users\me\documents\visual studio 2015\Projects\FactoryPatternPractice\FactoryPatternPractice\bin\Debug\FactoryPatternPractice.exe
+c:\users\me\documents\visual studio 2015\Projects\FactoryPatternPractice\FactoryPatternPractice\bin\Debug\FactoryPatternPractice.pdb
+c:\users\me\documents\visual studio 2015\Projects\FactoryPatternPractice\FactoryPatternPractice\obj\Debug\FactoryPatternPractice.csprojResolveAssemblyReference.cache
+c:\users\me\documents\visual studio 2015\Projects\FactoryPatternPractice\FactoryPatternPractice\obj\Debug\FactoryPatternPractice.exe
+c:\users\me\documents\visual studio 2015\Projects\FactoryPatternPractice\FactoryPatternPractice\obj\Debug\FactoryPatternPractice.pdb
